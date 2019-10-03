@@ -92,7 +92,7 @@
             </Anchor>
           </Anchors>
         </FontString>
-        <FontString name="$parentTitle" inherits="GameFontNormal" text="频道: 说, 大喊, 队伍, 团队, 表情, 团队警报, 公会, 公会官员, 战场.">
+        <FontString name="$parentTitle" inherits="GameFontNormal" text="频道: s, y, p, ra, 表情, 团队警报, g, go, bg.">
           <Anchors>
             <Anchor point="BOTTOMLEFT">
               <Offset>
@@ -101,7 +101,7 @@
             </Anchor>
           </Anchors>
         </FontString>
-        <FontString name="$parentTitle" inherits="GameFontNormal" text="私聊 (私聊给), 1-10 (自定义频道).">
+        <FontString name="$parentTitle" inherits="GameFontNormal" text="私聊 (私聊给), 1-10 (自定义频道),逗号分割.">
           <Anchors>
             <Anchor point="BOTTOMLEFT">
               <Offset>
